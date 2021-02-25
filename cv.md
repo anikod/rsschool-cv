@@ -12,7 +12,7 @@
 ----
 ### Introduction.
 
-I am a person who looks for new opportinities in IT-sphere, especially in programming and front-end developing. I have a backround in systems administration. Now I'm trying to switch to another IT area with an [RS School 2020Q1](http://rs.school) course.
+I am a person who is looking for new opportinities in IT-sphere, especially in programming and front-end developing. I have a backround in systems administration. Now I'm trying to switch to another IT area with an [RS School 2020Q1](http://rs.school) course.
 
 ### Professional Experience
 
